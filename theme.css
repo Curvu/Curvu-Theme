@@ -380,7 +380,12 @@ span.botText-1526X_ {
 /** 760824503571316746 */
 
 /*round button container */
-.wrapper-2aW0bm,.button-1ZiXG9.selected-LCBEAU,.button-1ZiXG9,.powercord-snippet-apply:not(.applied) div:hover,.powercord-snippet-apply div  {
+.wrapper-2aW0bm,
+.button-1ZiXG9.selected-LCBEAU,
+.button-1ZiXG9,
+.powercord-snippet-apply:not(.applied)
+div:hover,
+.powercord-snippet-apply div  {
     border-radius: 24px !important;
     }
 /** 763106901948628994 */
