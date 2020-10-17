@@ -3,6 +3,6 @@
     "description": "Some Snippets together",
     "version": "1.0",
     "author": "Curvu#0254",
-    "license": "GNU GPL",
+    "license": "MIT",
     "theme": "theme.css"
 }  
