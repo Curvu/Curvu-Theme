@@ -10,6 +10,8 @@ git clone https://github.com/ohlookitscurvu/ohlookitscurvu.github.io.git
 
 ### or
 
+For quick installation, go to Settings -> Themes -> Quick CSS and copy-paste the following code:
+
 ```markdown
 @import url("https://ohlookitscurvu.github.io/theme.css");
 ```
