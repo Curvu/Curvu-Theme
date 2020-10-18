@@ -13,5 +13,5 @@ git clone https://github.com/Curvu/Curvu-Theme.git
 For quick installation, go to **Settings -> Themes -> Quick CSS** and copy-paste the following code:
 
 ```markdown
-@import url("https://ohlookitscurvu.github.io/theme.css");
+@import url("https://curvu.github.io/Curvu-Theme/theme.css");
 ```
