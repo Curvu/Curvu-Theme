@@ -390,3 +390,33 @@ div:hover,
     border-radius: 24px !important;
     };
 /** 763106901948628994 */
+
+/* animated border around pfp (chat)*/
+@keyframes ColorAni {
+   0% {
+      box-shadow: 0 0 0 3px #FEAC5E;
+      background-position: 0% 50%
+   }
+   25% {
+      box-shadow: 0 0 0 3px #C779D0;
+      background-position: 100% 25%
+   }
+   50% {
+      box-shadow: 0 0 0 3px #4BC0C8;
+      background-position: 100% 50%
+   }
+   75% {
+      box-shadow: 0 0 0 3px #C779D0;
+      background-position: 100% 75%
+   }
+   100% {
+      box-shadow: 0 0 0 3px #FEAC5E;
+      background-position: 0% 50%
+   }
+}
+
+[data-author-id="323104036066951168"] > .contents-2mQqc9 > .avatar-1BDn8e {
+   box-shadow: 0 0 0 3px #FEAC5E;
+   animation: ColorAni 5s ease infinite;
+}
+/** 760211682420457482 */
