@@ -340,6 +340,7 @@ span.botText-1526X_ {
 }
 /** 766499540551073803 */
 
+/* Colorize window buttons on Windows */
 .titleBar-AC4pGV > *:nth-child(3):hover {
   background-color: #eab618;
 }
