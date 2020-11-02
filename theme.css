@@ -229,30 +229,6 @@
 }
 /** 762042213651185704 **/
 
-/* Replace bot tag with icon */
-.px-10SIf7.botTag-2WPJ74 {
-  height: 15px;
-  padding: 0 4px;
-  margin-top: 1px;
-  padding-right: 0px;
-  border-radius: 3px;
-}
-
-span.botText-1526X_::before {
-  font-family: "Font Awesome 5 Pro" !important;
-  content: "\f544";
-  visibility: visible;
-  position: absolute;
-  top: 0;
-  left: 0;
-}
-
-span.botText-1526X_ {
-  visibility: hidden;
-  position: relative;
-}
-/** 762667788841779210 */
-
 /* Botão do discord */
 .wrapper-1BJsBx.selected-bZ3Lue > .childWrapper-anI2G9 {
   background-color: orange;
@@ -391,3 +367,30 @@ div:hover,
     border-radius: 24px !important;
     };
 /** 763106901948628994 */
+
+/*Dark Bot Tags*/
+.botTagRegular-2HEhHi {
+    transition: .5s;
+    background: rgba(30,0,27,0.1);
+    color: #ffffff;
+}
+
+.botTagRegular-2HEhHi:hover {
+    transition: .5s;
+    background: #444444;
+    color: #ffffff;
+}
+/** 772766642261196810 */
+
+/*Dark Game Activity (With Spotify)*/
+}
+.activity-11LB_k{
+   background-color: rgb(28,28,28);
+}
+.headerTop-3C2Zn0{
+   background-color: rgb(28,28,28);
+}
+.disabledButtonOverlay-2DA5FI{
+    color: white;
+}
+/** 772777802196844555 */
