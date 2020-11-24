@@ -3,8 +3,6 @@
 @import url("https://discord-custom-covers.github.io/usrbg/dist/usrbg.css");
 @import url("https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css");
 @import url("https://discord-custom-covers.github.io/usrbg/snippets/modals.css");
-/* Revert Connection Settings */
-@import url("https://botatooo.github.io/css-snippets/revert-connections/snippet.css");
 
 /*Round bot tag*/
 .botTag-2WPJ74 {
@@ -89,28 +87,6 @@
   overflow: visible;
 }
 /* 755403664847536198 */
-
-/* Cleaner status picker with gradient buttons */
-#status-picker .separator-2I32lJ,
-#status-picker .description-2L932D {
-  display: none;
-}
-#status-picker .focused-3afm-j {
-  background: linear-gradient(45deg, #2b45a2, #7289da);
-}
-#status-picker .focused-3afm-j#status-picker-online {
-  background: linear-gradient(45deg, #21583f, #43b581);
-}
-#status-picker .focused-3afm-j#status-picker-idle {
-  background: linear-gradient(45deg, #915c03, #faa61a);
-}
-#status-picker .focused-3afm-j#status-picker-dnd {
-  background: linear-gradient(45deg, #aa0e0e, #f04747);
-}
-#status-picker .focused-3afm-j#status-picker-invisible {
-  background: linear-gradient(45deg, #3a4047, #747f8d);
-}
-/** 760827269270208512 */
 
 /* Fly in Voice Chat buttons fix */
 .panels-j1Uci_ .container-3baos1 button[aria-checked="false"],
@@ -474,3 +450,19 @@ svg.icon-22AiRD:hover {
 /* Remove nitro gift button */
 [aria-label="Send a gift"] { display: none; } /* EN */
 [aria-label="Enviar um presente"] { display: none; } /* PT */
+
+/* Member's Popup */
+.headerNormal-T_seeN, .headerPlaying-j0WQBV, .headerStreaming-2FjmGz, .headerSpotify-zpWxgT { background: var(--background-secondary-alt) !important;}
+.activityUserPopout-2yItg2 { border-radius: 5px; margin: 0 8px 12px 8px; padding: 10px;}
+.headerPlaying-j0WQBV > .activityUserPopout-2yItg2 { background: #7289DA !important;}
+.headerStreaming-2FjmGz > .activityUserPopout-2yItg2 { background: #593695 !important;}
+.headerSpotify-zpWxgT > .activityUserPopout-2yItg2 { background: #1DB954 !important;}
+.body-3iLsc4, .footer-1fjuF6 { background: var(--background-secondary) !important; }
+
+/* Enlarged popup of a member */
+.root-SR8cQa > .topSectionSpotify-1lI0-P, .root-SR8cQa > .topSectionPlaying-1J5E4n, .root-SR8cQa > .topSectionStreaming-1Tpf5X { background: var(--background-tertiary) !important;}
+.activityProfile-2bJRaP { border-radius: 5px; margin: 0 13px 13px 13px;}
+.topSectionSpotify-1lI0-P > .headerFill-adLl4x > .activityProfile-2bJRaP { background: #1DB954 !important; }
+.topSectionPlaying-1J5E4n > .headerFill-adLl4x > .activityProfile-2bJRaP { background: #7289DA !important; }
+.topSectionStreaming-1Tpf5X > .headerFill-adLl4x > .activityProfile-2bJRaP { background: #593695 !important; }
+.actionButton-3W1xZa { background: var(--background-primary) !important;}
