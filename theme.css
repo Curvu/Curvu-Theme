@@ -5,8 +5,6 @@
 @import url("https://discord-custom-covers.github.io/usrbg/snippets/modals.css");
 /* Revert Connection Settings */
 @import url("https://botatooo.github.io/css-snippets/revert-connections/snippet.css");
-/* Name Badges */
-@import url("https://raw.githack.com/LuckFire/NameBadges/main/source/badgesrc.css");
 
 /*Round bot tag*/
 .botTag-2WPJ74 {
@@ -472,3 +470,7 @@ svg.icon-22AiRD:hover {
     box-shadow: none !important;
 }
 /** 780533390855241760 */
+
+/* Remove nitro gift button */
+[aria-label="Send a gift"] { display: none; } /* EN */
+[aria-label="Enviar um presente"] { display: none; } /* PT */
