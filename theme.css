@@ -88,6 +88,12 @@
 }
 /* 755403664847536198 */
 
+/* Better Status */
+.animatorTop-2Y7x2r > .styleFixed-sX-yHV { width: 45px; background: var(--background-tertiary) !important;}
+.footer-2gL1pp { background: var(--background-tertiary) !important;}
+.customEmojiPlaceholder-37iZ_j { background-image: url(https://i.ibb.co/hVKW6Xs/e.png);}
+.description-2L932D, .status-1fhblQ, .separator-2I32lJ { display: none;}
+
 /* Fly in Voice Chat buttons fix */
 .panels-j1Uci_ .container-3baos1 button[aria-checked="false"],
 .panels-j1Uci_ .container-3baos1 button:not([role="switch"]) {
