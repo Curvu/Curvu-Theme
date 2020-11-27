@@ -1,4 +1,5 @@
 /*Remove notes of profile popup*/
+/*
 .userInfoSectionHeader-CBvMDh,
 .note-QfFU8y {
    display: none;
@@ -10,7 +11,7 @@
 
 .topSectionNormal-2-vo2m {
    z-index: 10;
-}
+}/*
 
 /* Remove Help Button */
 .anchor-3Z-8Bb[href="https://support.discord.com"] { display: none; }
