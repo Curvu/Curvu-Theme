@@ -3,12 +3,31 @@
 @import url("https://discord-custom-covers.github.io/usrbg/dist/usrbg.css");
 @import url("https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css");
 @import url("https://discord-custom-covers.github.io/usrbg/snippets/modals.css");
+/* Discord Font */
+@import url("https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css");
+
+/* Discord Mark */
+.wordmark-2iDDfm svg {
+    width: 0px;
+}
+.wordmark-2iDDfm::after {
+    position: absolute;
+    font-family: "Discord";
+    content: "Simplicity";
+    top: 2px;
+    width: 135px;
+    font-size: 18px;
+    font-weight: 700;
+    background: linear-gradient(270deg, #009EFF, #C0392B);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
 
 /*Round bot tag*/
 .botTag-2WPJ74 {
   border-radius: 20px !important;
 }
-/** 756274641957552158 */
 
 /* Better roles */
 .role-2irmRk {
@@ -31,28 +50,23 @@
 .footer-1fjuF6 {
   border-top: none;
 }
-/* 755404583601176636 */
 
 /*Minifiedmemberlist*/
 :root {
   --hover-animation-speed: 0.35s;
   --seperator-color: var(--background-accent);
 }
-
 .membersWrap-2h-GB4 {
   min-width: unset;
   width: 50px;
   justify-content: right;
 }
-
 .members-1998pB {
   transition: transform var(--hover-animation-speed);
 }
-
 .membersWrap-2h-GB4:hover .members-1998pB {
   transform: translateX(-190px);
 }
-
 .membersWrap-2h-GB4 .membersGroup-v9BXpm::after {
   content: "";
   width: 30px;
@@ -65,28 +79,23 @@
   top: 29px;
   margin-left: 0px;
 }
-
 .membersWrap-2h-GB4 .members-1998pB .member-3-YXUe {
   background-color: unset;
   margin-left: 0px;
   transition: margin-left var(--hover-animation-speed);
 }
-
 .membersWrap-2h-GB4:hover .members-1998pB .member-3-YXUe {
   margin-left: 8px;
 }
-
 .membersWrap-2h-GB4:hover .membersGroup-v9BXpm {
   transform: translateX(-6px);
 }
-
 .membersWrap-2h-GB4 .membersGroup-v9BXpm {
   cursor: default;
   transform: translateX(45px);
   transition: transform var(--hover-animation-speed);
   overflow: visible;
 }
-/* 755403664847536198 */
 
 /* Better Status */
 .animatorTop-2Y7x2r > .styleFixed-sX-yHV { width: 45px; background: var(--background-tertiary) !important;}
@@ -109,8 +118,6 @@
   opacity: 1 !important;
 }
 
-/** 760900739953590314 */
-
 /* Spinning Settings Wheel */
 .panels-j1Uci_ > .container-3baos1 .flex-1xMQg5 button:last-child:hover {
   animation: rotate 3s infinite;
@@ -118,7 +125,6 @@
   -webkit-animation-timing-function: linear;
   background-color: transparent;
 }
-/** 761265443025453077 */
 
 /* Better RTC Connection popout */
 .layerContainer-yqaFcK .layer-v9HyYc[style*="position: absolute; left: 100px;"] {
@@ -159,7 +165,6 @@
 .container-2x5lvQ section strong:nth-of-type(4)::before {
   content: "Packet Loss: ";
 }
-/** 761398967577083954 */
 
 /* better blocked messages */
 .blockedMessageText-1fRjos:before {
@@ -169,7 +174,6 @@
   padding: 3px 0 3px 377px;
   margin: 0 -310px 0 -64px;
 }
-
 .groupStart-23k01U.expanded-13sWhZ > div > div > div > .content-2M3n_H > div:before {
   padding-bottom: 0;
   border-radius: 10px 10px 0 0;
@@ -177,7 +181,6 @@
 .blockedIcon-IrnkVA > path {
   fill: #f04747;
 }
-
 .groupStart-23k01U.expanded-13sWhZ {
   background: var(--background-primary);
   border-radius: 0px !important;
@@ -195,11 +198,9 @@
 .blockedMessageText-1fRjos:hover:before {
   background: var(--background-tertiary);
 }
-
 .blockedIcon-IrnkVA {
   margin-top: -2px;
 }
-
 .groupStart-23k01U.expanded-13sWhZ > .message-2qnXI6 > div,
 .groupStart-23k01U.expanded-13sWhZ > .message-2qnXI6 > div > .avatar-1BDn8e {
   margin-left: -8px;
@@ -207,21 +208,18 @@
 .groupStart-23k01U.expanded-13sWhZ > .message-2qnXI6 > .buttonContainer-DHceWr {
   margin-right: -3px;
 }
-/** 762042213651185704 **/
 
 /* Botão do discord */
 .wrapper-1BJsBx.selected-bZ3Lue > .childWrapper-anI2G9 {
   background-color: orange;
   color: white;
 }
-
 .homeIcon-tEMBK1 {
   -webkit-mask: center/contain no-repeat url("https://i.imgur.com/hzvhoRZ.png");
   width: 30px;
   height: 30px;
   margin-top: -2px;
 }
-
 .homeIcon-tEMBK1 path {
   width: 0;
 }
@@ -231,7 +229,6 @@
   height: 4.65rem;
   align-items: unset !important;
 }
-
 .item-PXvHYJ[data-item-id="pc-updater"]:hover {
   background: linear-gradient(
     180deg,
@@ -264,7 +261,6 @@
   font-weight: 700;
   font-size: 12px;
 }
-/** 762067626942791680 */
 
 /* Compressed Search Bar */
 .search-2oPWTC .searchBar-3dMhjb {
@@ -277,7 +273,6 @@
 .search-2oPWTC.open-6_Y_aH .searchBar-3dMhjb {
   width: 260px !important;
 }
-/** 766784454974373889 */
 
 /* Colorize window buttons on Windows */
 .titleBar-AC4pGV > *:nth-child(3):hover {
@@ -286,7 +281,6 @@
 .titleBar-AC4pGV > *:nth-child(4):hover {
   background-color: #48c048;
 }
-/** 766356739087007755 */
 
 /*round button container */
 .wrapper-2aW0bm,
@@ -297,7 +291,6 @@ div:hover,
 .powercord-snippet-apply div  {
     border-radius: 24px !important;
     };
-/** 763106901948628994 */
 
 /*Dark Bot Tags*/
 .botTagRegular-2HEhHi {
@@ -311,7 +304,6 @@ div:hover,
     background: #444444;
     color: #ffffff;
 }
-/** 772766642261196810 *
 
 /*remove notes of profile popup*/
 .userInfoSectionHeader-CBvMDh,
@@ -326,23 +318,19 @@ div:hover,
 .topSectionNormal-2-vo2m {
    z-index: 10;
 }
-/** 777246112184270849 */
 
 /*Solid Replies*/
 .repliedTextPreview-2NBljf {
   opacity: 100 !important;
 }
-/** 778027248493658152 */
 
 /* Remove Help Button */
 .anchor-3Z-8Bb[href="https://support.discord.com"] { display: none; }
-/*                    */
 
 /* Better Topbar */
 :root {
   --Roundness: 25px; /* Changes how round edges are | Default: 25px */
 }
-
 .children-19S4PO, .toolbar-1t6TWx {
   background-color: rgba(0,0,0,0.2);
   border-radius: var( --Roundness);
@@ -402,7 +390,6 @@ svg.icon-22AiRD:hover {
 .channelName-qsg_a_ > div > .input-2A_zIr {
     box-shadow: none !important;
 }
-/** 780533390855241760 */
 
 /* Remove nitro gift button */
 [aria-label="Send a gift"] { display: none; } /* EN */
