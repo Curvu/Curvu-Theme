@@ -1,8 +1,8 @@
-/* ADDONS !!*/
-@use "./addons/B_RTC_Connection.css";
-@use "./addons/B_block_message.css;
-@use "./addons/B_channel_indicator.css;
-@use "./addons/B_discord.css;
-@use "./addons/B_member_popup.css;
-@use "./addons/B_powercord_settings.css;
-@use "./addons/Remove_useless.css;
+/* ADDONS !! */
+@import url("https://curvu.github.io/Simplicity/addons/B_RTC_Connection.css");
+@import url("https://curvu.github.io/Simplicity/addons/B_block_message.css");
+@import url("https://curvu.github.io/Simplicity/addons/B_channel_indicator.css");
+@import url("https://curvu.github.io/Simplicity/addons/B_discord.css");
+@import url("https://curvu.github.io/Simplicity/addons/B_member_popup.css");
+@import url("https://curvu.github.io/Simplicity/addons/B_powercord_settings.css");
+@import url("https://curvu.github.io/Simplicity/addons/Remove_useless.css");
