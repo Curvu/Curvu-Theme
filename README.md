@@ -1,6 +1,6 @@
 <h1> Simplicity </h1>
 This theme was made of some snippets and my tests.
-\nBig thanks to those who helped me.
+Big thanks to those who helped me.
 
 ### Installation
 
