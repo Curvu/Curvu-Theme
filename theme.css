@@ -1,5 +1,10 @@
 @import url("https://curvu.github.io/Simplicity/theme.css");
-/* Discord Font */
-@import url("https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css");
 
-@use "./src/source/theme-source.css";
+/* ADDONS !!*/
+@use "./addons/B_RTC_Connection.css";
+@use "./addons/B_block_message.css;
+@use "./addons/B_channel_indicator.css;
+@use "./addons/B_discord.css;
+@use "./addons/B_member_popup.css;
+@use "./addons/B_powercord_settings.css;
+@use "./addons/Remove_useless.css;
