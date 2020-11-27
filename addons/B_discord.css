@@ -106,12 +106,13 @@
 
 /* Discord Home Icon */
 .wrapper-1BJsBx.selected-bZ3Lue > .childWrapper-anI2G9 {
-  background-color: orange;
+  background-color: #ffffff00/*orange*/;
   color: white;
 }
 
 .homeIcon-tEMBK1 {
-  -webkit-mask: center/contain no-repeat url("https://i.imgur.com/hzvhoRZ.png");
+  /*-webkit-mask: center/contain no-repeat url("https://i.imgur.com/hzvhoRZ.png");*/
+  -webkit-mask: center/contain no-repeat url("https://imgur.com/s9zTPtM");
   width: 30px;
   height: 30px;
   margin-top: -2px;
