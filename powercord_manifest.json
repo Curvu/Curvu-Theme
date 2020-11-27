@@ -1,8 +1,8 @@
 {
-    "name": "Curvu",
-    "description": "Some Snippets together",
+    "name": "Simplicity",
+    "description": "Clean Theme",
     "version": "1.0",
-    "author": "Curvu#0254",
+    "author": "Curvu",
     "license": "MIT",
     "theme": "theme.css"
 }  
