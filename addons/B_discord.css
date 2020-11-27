@@ -111,8 +111,7 @@
 }
 
 .homeIcon-tEMBK1 {
-  /*-webkit-mask: center/contain no-repeat url("https://i.imgur.com/hzvhoRZ.png");*/
-  -webkit-mask: center/contain no-repeat url("https://imgur.com/s9zTPtM");
+  -webkit-mask: center/contain no-repeat url("https://i.imgur.com/hzvhoRZ.png");
   width: 30px;
   height: 30px;
   margin-top: -2px;
