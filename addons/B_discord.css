@@ -104,7 +104,7 @@
   background-color: transparent;
 }
 
-/* Discord Home */
+/* Discord Home Icon */
 .wrapper-1BJsBx.selected-bZ3Lue > .childWrapper-anI2G9 {
   background-color: orange;
   color: white;
@@ -278,4 +278,9 @@ svg.icon-22AiRD:hover {
 
 .channelName-qsg_a_ > div > .input-2A_zIr {
     box-shadow: none !important;
+}
+
+/* Rounded bot tag */
+.botTag-2WPJ74 {
+    border-radius: 100px !important;
 }
