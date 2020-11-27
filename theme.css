@@ -1,5 +1,3 @@
-@import url("https://curvu.github.io/Simplicity/theme.css");
-
 /* ADDONS !!*/
 @use "./addons/B_RTC_Connection.css";
 @use "./addons/B_block_message.css;
