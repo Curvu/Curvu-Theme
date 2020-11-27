@@ -1,0 +1,20 @@
+/*Remove notes of profile popup*/
+.userInfoSectionHeader-CBvMDh,
+.note-QfFU8y {
+   display: none;
+}
+
+.infoScroller-3EYYns>.userInfoSection-2acyCx:first-of-type {
+   margin-top: -45px;
+}
+
+.topSectionNormal-2-vo2m {
+   z-index: 10;
+}
+
+/* Remove Help Button */
+.anchor-3Z-8Bb[href="https://support.discord.com"] { display: none; }
+
+/* Remove nitro gift button */
+[aria-label="Send a gift"] { display: none; } /* EN */
+[aria-label="Enviar um presente"] { display: none; } /* PT */
