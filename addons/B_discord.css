@@ -265,25 +265,3 @@ svg.icon-22AiRD:hover {
 .botTag-2WPJ74 {
     border-radius: 100px !important;
 }
-
-/* Topbar + Chat */
-.titleBar-AC4pGV { /* Topbar Change */
-    background: var(--background-secondary-alt);
-    margin-top: 0px;
-}
-.winButton-iRh8-Z {
-    margin-top: 2px;
-}
-
-.title-3qD0b-.container-1r6BKw.themed-ANHk51 { /* Nicer Topbar Title */
-    background-color: var(--background-secondary);
-
-    & > div::after {
-        display: none;
-    }
-}
-.toolbar-1t6TWx { /* Tooltip Background */
-    background-color: var(--background-secondary-alt);
-    border-radius: 10px;
-    padding: 6px;
-}
