@@ -18,5 +18,5 @@ For quick installation, go to **Settings -> Themes -> Quick CSS** and copy-paste
 @import url("https://curvu.github.io/Simplicity/theme.css");
 ```
 ### TODO:
-* [make this translucent](https://prnt.sc/vrqmc4)
-
+* make [this](https://prnt.sc/vrqmc4) translucent !
+* [two color wave] watermark !
