@@ -1,25 +1,6 @@
 /* Discord Font */
 @import url("https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css");
 
-/* watermark */
-.wordmark-2iDDfm svg {
-    width: 0px;
-}
-
-.wordmark-2iDDfm::after {
-    position: absolute;
-    font-family: "Discord";
-    content: "Simplicity";
-    top: 2px;
-    width: 135px;
-    font-size: 18px;
-    font-weight: 700;
-    background: linear-gradient(270deg, #009EFF, #C0392B);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-}
-
 /* Minifiedmemberlist */
 :root {
   --hover-animation-speed: 0.35s;
