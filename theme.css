@@ -65,7 +65,19 @@
     padding: 6px;
 }
 
-/* watermark */
+/* Watermark */
+@keyframes Gradient1 {
+    0% {
+       background-position:0% 50%
+    }
+    50% {
+       background-position:100% 50%
+    }
+    100% {
+       background-position:0% 50%
+    }
+}
+
 .wordmark-2iDDfm svg {
     width: 0px;
 }
@@ -74,12 +86,14 @@
     position: absolute;
     font-family: "Discord";
     content: "Simplicity";
-    top: 2px;
-    width: 135px;
-    font-size: 18px;
+    top: 3px;
+    width: 75px;
+    font-size: 13px;
     font-weight: 700;
-    background: linear-gradient(270deg, #009EFF, #C0392B);
+    background: linear-gradient(270deg, #008000, #009EFF);
+    animation: Gradient1 5s ease infinite;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
+    background-size: 400% 400%;
 }
