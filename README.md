@@ -19,5 +19,5 @@ For quick installation, go to **Settings -> Themes -> Quick CSS** and copy-paste
 ```
 ### TODO:
 ```markdown
-make [this](https://prnt.sc/vrqmc4) translucent
+make ![this](https://prnt.sc/vrqmc4) translucent
 ```
