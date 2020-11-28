@@ -19,4 +19,4 @@ For quick installation, go to **Settings -> Themes -> Quick CSS** and copy-paste
 ```
 ### TODO:
 * make [this](https://prnt.sc/vrqmc4) translucent !
-* [two color wave] watermark !
+* [two color wave](https://prnt.sc/vrqsdu) watermark !
