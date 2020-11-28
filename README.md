@@ -19,8 +19,5 @@ For quick installation, go to **Settings -> Themes -> Quick CSS** and copy-paste
 ```
 ### TODO:
 ```markdown
-https://prnt.sc/vrqmc4 ; make this translucent
+make [this](https://prnt.sc/vrqmc4) translucent
 ```
-
-http://github.com - automatic!
-[GitHub](http://github.com)
