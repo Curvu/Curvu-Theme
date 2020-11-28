@@ -17,3 +17,7 @@ For quick installation, go to **Settings -> Themes -> Quick CSS** and copy-paste
 ```markdown
 @import url("https://curvu.github.io/Simplicity/theme.css");
 ```
+### TODO:
+```markdown
+https://prnt.sc/vrqmc4 ; make this translucent
+```
