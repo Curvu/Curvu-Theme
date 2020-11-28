@@ -44,7 +44,7 @@
 
 /* Topbar + Chat */
 .titleBar-AC4pGV { /* Topbar Change */
-    background: var(--background-secondary-alt);
+    background: #211828;
     margin-top: 0px;
 }
 .winButton-iRh8-Z {
@@ -52,14 +52,14 @@
 }
 
 .title-3qD0b-.container-1r6BKw.themed-ANHk51 { /* Nicer Topbar Title */
-    background-color: var(--background-secondary);
+    background-color: #281d30;
 
     & > div::after {
         display: none;
     }
 }
 .toolbar-1t6TWx { /* Tooltip Background */
-    background-color: var(--background-secondary-alt);
+    background-color: #211828;
     border-radius: 10px;
     padding: 6px;
 }
