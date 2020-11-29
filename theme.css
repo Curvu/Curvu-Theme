@@ -21,17 +21,17 @@
     --background-tertiary: #1A141F !important;
     --background-accent: #72507a !important;
     --background-floating: var(--background-tertiary) !important;
-    --background-modifier-hover: rgba(255,255,255,0.01) !important;	
-    --background-modifier-active: rgba(255,255,255,0.03) !important;
-    --background-modifier-selected: rgba(255,255,255,0.04) !important;	
-    --background-modifier-accent: hsla(0,0%,100%,0.06) !important;
+    --background-modifier-hover: #ffffff03 !important;	
+    --background-modifier-active: #ffffff08 !important;
+    --background-modifier-selected: #ffffff0a !important;	
+    --background-modifier-accent: #ffffff0f !important;
     --channeltextarea-background: var(--background-secondary) !important;
-    --focus-primary: rgb(168, 113, 182) !important;
-    --deprecated-card-bg: rgba(0, 0, 0, 0.2) !important;
-    --deprecated-card-editable-bg: rgba(0,0,0,0.1) !important;
+    --focus-primary: #a871b6 !important;
+    --deprecated-card-bg: #00000033 !important;
+    --deprecated-card-editable-bg: #0000001a !important;
     --deprecated-text-input-border-disabled: var(--background-tertiary) !important;
     --activity-card-background: var(--background-primary) !important;
-    --channels-default: #9f9f9f !important;
+    --channels-default: #9e9e9e !important;
     --text-muted: #b6b6b6 !important;
     --text-normal: #fbfbfb !important;
     --interactive-normal: #c8c8c8 !important;
@@ -42,7 +42,7 @@
     --toast-background: var(--background-primary) !important;
     --toast-header: var(--background-tertiary) !important;
     --toast-contents: var(--background-secondary) !important;
-    --toast-box-shadow: rgba(0, 0, 0, .2) !important;
+    --toast-box-shadow: #00000033 !important;
     --toast-border: var(--background-tertiary) !important;
 }
 
