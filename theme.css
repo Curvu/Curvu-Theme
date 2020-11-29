@@ -1,16 +1,16 @@
 /* ADDONS !! */
-@import url("https://curvu.github.io/Simplicity/addons/better-rtc-connection.css");
-@import url("https://curvu.github.io/Simplicity/addons/better-blocked-messages.css");
-@import url("https://curvu.github.io/Simplicity/addons/better-channel-indicator.css");
-@import url("https://curvu.github.io/Simplicity/addons/discord-changes.css");
-@import url("https://curvu.github.io/Simplicity/addons/better-member-popup.css");
-@import url("https://curvu.github.io/Simplicity/addons/better-powercord-settings.css.css");
-@import url("https://curvu.github.io/Simplicity/addons/remove-useless.css");
-@import url("https://curvu.github.io/Simplicity/addons/better-curvu.css");
+@import url("https://curvu.github.io/Simplicity/src/addons/better-rtc-connection.css");
+@import url("https://curvu.github.io/Simplicity/src/addons/better-blocked-messages.css");
+@import url("https://curvu.github.io/Simplicity/src/addons/better-channel-indicator.css");
+@import url("https://curvu.github.io/Simplicity/src/addons/discord-changes.css");
+@import url("https://curvu.github.io/Simplicity/src/addons/better-member-popup.css");
+@import url("https://curvu.github.io/Simplicity/src/addons/better-powercord-settings.css.css");
+@import url("https://curvu.github.io/Simplicity/src/addons/remove-useless.css");
+@import url("https://curvu.github.io/Simplicity/src/addons/better-curvu.css");
 
 /* SOURCE !! */
-@import url("https://curvu.github.io/Simplicity/source/theme-source.css");
-@import url("https://curvu.github.io/Simplicity/source/watermark.css");
+@import url("https://curvu.github.io/Simplicity/src/source/theme-source.css");
+@import url("https://curvu.github.io/Simplicity/src/source/watermark.css");
 
 /* Theme */
 .theme-dark, 
