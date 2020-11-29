@@ -1,0 +1,38 @@
+/* Watermark */
+@keyframes Gradient1 {
+    0% {
+       background-position:0% 100%
+    }
+    25% {
+       background-position:75% 25%
+    }
+    50% {
+       background-position:50% 50%
+    }
+    75%{
+        background-position:25% 75%;
+    }
+    100%{
+        background-position:0% 100%;
+    }
+}
+
+.wordmark-2iDDfm svg {
+    width: 0px;
+}
+
+.wordmark-2iDDfm::after {
+    position: absolute;
+    font-family: "Discord";
+    content: "Simplicity";
+    top: 3px;
+    width: 75px;
+    font-size: 13px;
+    font-weight: 700;
+    background: linear-gradient(270deg, #008000, #009EFF);
+    animation: Gradient1 5s ease infinite;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    background-size: 400% 400%;
+}
