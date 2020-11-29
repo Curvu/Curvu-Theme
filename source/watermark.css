@@ -1,5 +1,8 @@
+/* Discord Font */
+@import url("https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css");
+
 /* Watermark */
-@keyframes Gradient1 {
+@keyframes Gradient1 { /* Color wave */
     0% {
        background-position:0% 100%
     }
@@ -29,7 +32,7 @@
     width: 75px;
     font-size: 13px;
     font-weight: 700;
-    background: linear-gradient(270deg, #008000, #009EFF);
+    background: linear-gradient(270deg, #008000, #009EFF); /* Colors */
     animation: Gradient1 5s ease infinite;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
