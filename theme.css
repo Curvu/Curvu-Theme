@@ -9,44 +9,10 @@
 @import url("https://curvu.github.io/Simplicity/src/addons/better-curvu.css");
 
 /* SOURCE !! */
+@import url("https://curvu.github.io/Simplicity/src/source/theme/coloring.css");
 @import url("https://curvu.github.io/Simplicity/src/source/theme-source.css");
 @import url("https://curvu.github.io/Simplicity/src/source/theme/scrollers.css");
 @import url("https://curvu.github.io/Simplicity/src/source/watermark.css");
-
-/* Theme */
-.theme-dark, 
-.theme-light, 
-:root {
-    --background-primary: #36263A !important;
-    --background-secondary: #281D30 !important;
-    --background-secondary-alt: #211828 !important;
-    --background-tertiary: #1A141F !important;
-    --background-accent: #72507a !important;
-    --background-floating: var(--background-tertiary) !important;
-    --background-modifier-hover: #ffffff03 !important;	
-    --background-modifier-active: #ffffff08 !important;
-    --background-modifier-selected: #ffffff0a !important;	
-    --background-modifier-accent: #ffffff0f !important;
-    --channeltextarea-background: var(--background-secondary) !important;
-    --focus-primary: #a871b6 !important;
-    --deprecated-card-bg: #00000033 !important;
-    --deprecated-card-editable-bg: #0000001a !important;
-    --deprecated-text-input-border-disabled: var(--background-tertiary) !important;
-    --activity-card-background: var(--background-primary) !important;
-    --channels-default: #9e9e9e !important;
-    --text-muted: #b6b6b6 !important;
-    --text-normal: #fbfbfb !important;
-    --interactive-normal: #c8c8c8 !important;
-    --interactive-hover: #dcddde !important;
-    --interactive-active: #fff !important;
-    --interactive-muted: #747474 !important;
-    --header-secondary: #c9c9c9 !important;
-    --toast-background: var(--background-primary) !important;
-    --toast-header: var(--background-tertiary) !important;
-    --toast-contents: var(--background-secondary) !important;
-    --toast-box-shadow: #00000033 !important;
-    --toast-border: var(--background-tertiary) !important;
-}
 
 /* Topbar + Chat */
 .titleBar-AC4pGV { /* Topbar Change */
