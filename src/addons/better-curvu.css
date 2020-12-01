@@ -61,11 +61,11 @@
 }
 
 /* Better chat avatars */
-.avatar-1BDn8e.clickable-1bVtEA { 
+[src*="323104036066951168"] { 
     filter: drop-shadow(0 0 3px);
     color: pink;
 }
-.avatar-1BDn8e:hover.clickable-1bVtEA:hover {
+[src*="323104036066951168"] {
     filter: drop-shadow(0 0 8px);
     color: pink;
     transition: width .5s ease, height .5s ease, transform .5s ease;
