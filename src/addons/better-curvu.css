@@ -59,14 +59,3 @@
 .reduce-motion .userPopout-3XzG_A {
 	transform:translateZ(0);
 }
-
-/* Better chat avatars */
-[src*="323104036066951168"] { 
-    filter: drop-shadow(0 0 3px);
-    color: pink;
-}
-[src*="323104036066951168"] {
-    filter: drop-shadow(0 0 8px);
-    color: pink;
-    transition: width .5s ease, height .5s ease, transform .5s ease;
-}
