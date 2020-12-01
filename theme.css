@@ -10,28 +10,7 @@
 
 /* SOURCE !! */
 @import url("https://curvu.github.io/Simplicity/src/source/theme/coloring.css");
+@import url("https://curvu.github.io/Simplicity/src/source/theme/better-topbar.css");
 @import url("https://curvu.github.io/Simplicity/src/source/theme-source.css");
 @import url("https://curvu.github.io/Simplicity/src/source/theme/scrollers.css");
 @import url("https://curvu.github.io/Simplicity/src/source/watermark.css");
-
-/* Topbar + Chat */
-.titleBar-AC4pGV { /* Topbar Change */
-    background: var(--background-secondary-alt);
-    margin-top: 0px;
-}
-.winButton-iRh8-Z {
-    margin-top: 2px;
-}
-
-.title-3qD0b-.container-1r6BKw.themed-ANHk51 { /* Nicer Topbar Title */
-    background-color: var(--background-secondary);
-
-    & > div::after {
-        display: none;
-    }
-}
-.toolbar-1t6TWx { /* Tooltip Background */
-    background-color: var(--background-secondary-alt);
-    border-radius: 10px;
-    padding: 6px;
-}
