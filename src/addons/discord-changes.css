@@ -262,15 +262,3 @@ svg.icon-22AiRD:hover {
 .botTag-2WPJ74 {
     border-radius: 100px !important;
 }
-
-/* Better chat avatars */
-.avatar-1BDn8e.clickable-1bVtEA { 
-    filter: drop-shadow(0 0 3px);
-    color: pink;
-}
-.avatar-1BDn8e:hover.clickable-1bVtEA:hover {
-    filter: drop-shadow(0 0 8px);
-    color: pink;
-    transition: width .5s ease, height .5s ease, transform .5s ease;
-}
-
