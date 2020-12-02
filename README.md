@@ -7,7 +7,7 @@ Big thanks to those who helped me.
 For manual installation, go to your **themes folder, open a command prompt / powershell / terminal / or git bash** and enter the following:
 
 ```markdown
-[git clone] https://github.com/Curvu/Simplicity.git && [git pull]
+git clone https://github.com/Curvu/Simplicity.git && git pull
 ```
 
 ### or
