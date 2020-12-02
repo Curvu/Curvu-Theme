@@ -18,4 +18,4 @@ For quick installation, go to **Settings -> Themes -> Quick CSS** and copy-paste
 @import url("https://curvu.github.io/Simplicity/theme.css");
 ```
 ### TODO:
-* make [this](https://prnt.sc/vrqmc4) translucent !
+* make [this](https://prnt.sc/vrqmc4) better !
